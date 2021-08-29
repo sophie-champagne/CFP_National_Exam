@@ -73,6 +73,71 @@ tax year end on the last day of any month during the year. **
 
 * Expense Elections: 
 
-* 
+* Waiver of the executor's fees 
+* Any casualty losses suffered during estate administration may be deducted on either the fiduciary income tax return or the decedent's estate tax return 
+* Waiver of exectuor's fees: executor's fees are deductible either on the fidiciary income tax return. 
+
+US Savings Bonds and income in respect of decedent Assets: 
+IRD assets do not receive a step to fmv in basis at the owner's date of death. US Savings Bonds are treaed in this way because usually income tax is not paid on the interest as it accrues-it
+
+- whoever receives the income may receive a corresponding IRD deduction 
+- If the decedent has made any charitable bequests in his will, it may be the best ideas to satisfy those bequests with any US savings Bonds and IRD assets. While
+charity will recognize income upon the receipt of the asset, no income tax will be paid because charitable organizations are exempt from income tax. 
+
+Some examples of the IRD assets: 
+* Qualified Plans 
+* IRAs 
+* US Saving Bonds 
+
+
+Gift Tax Issues: 
+* Split Gifts for the year of death: 
+
+Giving away assets during their lifetime, not only will the asset be removed from their gross estate, the future appreciation value would be transferred to the donees as well. 
+
+- the gift splitting election treats a gift of separate property as being made one-half from each spouse 
+- If the decedent made gifts during the last year before his death, those gifts must be reported on a timely filed gift tax return. 
+
+## Basics Estate Planning Issues: 
+- Valuation of Assets 
+- Small estate would tend to overstate while the large estate would be vice verser 
+A small estate would benefit assigning higher values to its assets, since the value of the assets included in the gross estate receive a step-up in basis for the heirs. 
+- Large estates would rather under value the assets and save on estate taxes, even they may generate higher capital taxes to pay. 
+
+AVD: Alternate Valuation Date
+The fair market value of the assets six months after the decedent's date of death is included in the gross estate 
+Conditions needed to be met for the AVD election: 
+(1) The Value of the assets included in the fross estate six months after decedent's date of death must be ##lower## than the value of the assets on the date of death.
+(2) There must be a reduction in the total estate tax due as a result of the election 
+
+Some assets are excluded from the AVD election: 
+(1) Assets distribued before 6 months which are valued at the date of distribution 
+(2) Wasting Assets: patents, royalties, installment notes, lease income 
+
+Installment payments of estate Tax: 
+Owner's Interest would be a big problem if they are facing the gross estate inclusion problem since if they died, they have to pay the estate taxes within nine months. 
+
+- When the executor chose the installment payments of estate tax under #section 6166#, they could amortize the estate tax payment within ##14 years## 
+- Qualification of the 6166: 
+- The value of the business interest must exceed 35% of the value of the decedent's adjusted gross estate 
+- Closely held business, and the 20% of total capital interest is included in the decedent's gross estate 
+- Actively engaged in the conduct of a trade or a business at the date of decedent's death 
+
+-Special Use Valuation (2032A) 
+Purpose: the value of the property may be higher than the value of the property in its current use. 
+- If a special use valuation is elected, the value included in the decedent's gross estate will be the current use value of the property, subject to a limitation that the highest and best use value cannot be reduced by more than 1.19 million (2021) 
+
+##Requirements of the special use of evalution: 
+-- US residents or citizen at the time of his death 
+-- The property must be used as a farming operation or trade business actively managed by the decedent's gross estate. 
+-- The value of the real and personal property used in a qualifying manner must equal or exceed 50% of the decedent's gross estate 
+-- The value of the real property used in a qualifiying manner must equal or exceed 25% of the value of the gross estate 
+-- the property must be located in the US and must pass to qualifying heirs 
+-- The executor must file the election with the estate tax return, complete with a recapture 
+
+If the heirs are stopped in using property in a quaifying manner, the property is sold during the 10 year period, the additional tax is imposed. 
+The amount is imposed is the lesser of (1) The estate tax savings from special use Valuation (2) amount equal to the proceeds from the sale of the property less special use valuation amount 
+
+
  
 

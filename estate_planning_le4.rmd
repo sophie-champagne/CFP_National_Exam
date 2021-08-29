@@ -1,0 +1,78 @@
+###buy-sell agreement: 
+
+Why we need buy-sell agreement? 
+Because closely held businesses are not marketable and create liquidity problems when one of the business partners wishes to terminate and transfer of ownership. 
+
+The CFP exam would focus on the buy-sell agreement at the death of an owner funded through the use of life insurance. 
+
+Two methods in transferring ownership: 
+* Each owner owning an insurance policyt on each of the other owners. The estate of each owner then commits to selling the ownership to the surviving owners. 
+
+The characteristics of buy-sell agreement: 
+- each shareholder owns a policy on all of the other owners 
+- premiums are nondeductible 
+- life insurance cannot be attached to the creditors 
+- tax-free benefits to the remaning owners 
+- step-up basis, of remaining owners' interests 
+
+Good side: (1) Step-up basis (2) life insurance can not be attached by the company's creditors 
+Bad side: (1) own a policy on each of the other owners, the formula to determine the number of policies is N * (N - 1) 
+
+Another way: stock redemption owning the life policies with each other , they commmit to sell their ownership back to the company 
+
+- company owns a policy on each other 
+- premiums are not deductible 
+- company purchases deceased owner's interests 
+- no step-up in basis of remaining owner's interest 
+- does not allow for an altering of ownership ratios 
+
+good: this allows the company to purchase one policy on each owner which siginificantly reduce the number of policies required if there are several owners. the entity 
+insurance is that the number of the policies is reduced to one policy per partner or shareholder. 
+bad: the remaining owners did not get a step-up basis 
+
+Special Election and postmortem planning: 
+- **liquidity needs:**
+The ILET ( Irrevocable Life Insurance Trust) is not included in the decendent's gross estate. 
+*  Last medical costs 
+*  Funeral Costs 
+*  Transisiont of Adjustment Period costs 
+*  Administrative Costs 
+*  Income Estate, and GSTT 
+   they should have enough money to cover this costs 
+   
+ ** Liquidity Sources and Implication** : How to use liquidate the liquidity to cover all the costs 
+ - Sale of Assets 
+ - Life Insurance 
+ - Tax Advantage Account 
+    The value of those deferrals at death will not qualify for a step-up in basis 
+    The bene of the tax-advantaged account will be eligible for a deduction in the form of a miscellaneous itemized deduction not subject to 2% of AGI floor. 
+    However, they had the income-tax on these accounts 
+
+** Coporate Redemption from closely held businesses 
+   C-corp held to cover estate liquidity needs-the corporation itself. This kind of redemption can transform an illiquid asset into a liquid asset. 
+   more than 35% of the decedent's adjusted gross estate must consist of the closely held business interests. The FMV of all of the closely held business interests can be 
+   aggregated to meet the 35% test if the decedent owned at least 20% of each company's outstanding stocks. 
+   
+** Distribution of Assets: 
+   Administrator will distribute the estate's assets in lieu of a cash payment to creditors and those providing estate administration services. This is not possible
+   for the payment of taxes-both the federal and state governments require a cash payment within nine months of the decedent's date of death. 
+   
+   Loans for payments of taxes and other costs: 
+   Borrow money to cover estate taxes and administration expeneses of the decedent. 
+
+## Income Tax Issues on Decedent's Final Return 
+* Final Tax return must be prepared and filed. The final return will include all of the decedent's taxable and deductions until the date of his death. 
+* Expense Elections
+  - The executor cannot elect to deduct the same expenses on both returns 
+  - If decedent's estate is not subject to the estate taxes, the expenses should be deducted from the decedent's final income tax return 
+  - medical expenses are deductible on the final income tax return, AGI is exceeded 7.5% of decedent's adjusted gross income in the year of death. 
+  
+## Income Tax Issues regarding Form 1041: 
+* Selection of tax year: estate is not a natural person, it is not required to use a calendar year for the tax purposes. **The executor can elect to have estate's 
+tax year end on the last day of any month during the year. **
+
+* Expense Elections: 
+
+* 
+ 
+

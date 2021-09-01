@@ -138,6 +138,97 @@ Purpose: the value of the property may be higher than the value of the property 
 If the heirs are stopped in using property in a quaifying manner, the property is sold during the 10 year period, the additional tax is imposed. 
 The amount is imposed is the lesser of (1) The estate tax savings from special use Valuation (2) amount equal to the proceeds from the sale of the property less special use valuation amount 
 
+## IRC Section6166 
+(1) Requirement: 
+* 10 annual installment 
+* 1.59 mm 
+* First installment must be made within 5 years after the estate tax return is due 
+* 2% interest on first 1.59 mm of a closely held business interest. It the estate makes use of the lower interest rate, the interest is not deductible. 
+
+eligiblity: 
+* value of closely held business interest > 35% of the AGE. Must be sole propriertorship in which the decedent owned 20% capital interest or 20% voting share. 
+* If it is more than one business, they can be aggregated to meet the 35% of AGE if the decedent owns 20% of capital interest. 
+
+## IRC Section 2032A 
+reduce the fmv of the real property up to 1.19 mm 
+
+eligibility: 
+* bueinss real property must be used in farm or business activitiy managed by the decedent or the decedent's family 5 out of 8 years prior to the decedent's death 
+* real preoperty must pass to qualifying heirs 
+* executor must file election with estate tax return 
+* values of business real and personal property must be 50% of the GE as adjusted 
+
+Disclaimers: an irrevocable and unqualified refusal to accept a gift and request 
+
+## Requirements: 
+(1) Disclaimer must be in writing 
+(2) The disclaimer must be made within nine months of the date on which the transfer creating the interest was made or the day on which the discaliming party reache the age of 21. 
+(3) The disclaimer could not specify who they are transferred to. 
+(4) the disclaimant cannot accept any interest or benefit in the property prior to disclaiming 
+
+Disclaimer by the surviving spouse: The spouse has the right to turn the estate down 
+Disclaimer in favor of surviving spouse: This would be disclaimers by others and make sure the surviving spouse has sufficient fund 
+Disclaimer in favor of charities: All the transferred money would qualify for the unlimited charitable deduction in the transferor's estate 
+Disclaimer by others ignoring the marital deduction: 
+Power of Appointment: the disclaimant has the authority to desigate the recipient of the property as occurs with a general power of appointment 
+
+QTIP election: 
+QDOT election: the election must be made by a US citizen spouse or US citizen executor 
+GSTT: generation skipping transfer tax elections 
+
+# GSTT Tax: 
+The GSTT is an excise tax, in addition to any gift or estate tax, imposed on the transfer of property to a donee who is ## two or more generations younger than the donor. 
+
+## Characteristics of GSTT tax: 
+* GSTT system has an annual exclusion of $15,000 life time exemption of 11.7 mm 
+
+The diffeerences between GSTT,estate tax and gift tax, 
+
+11.7 mm, the GSTT tax has imposed 40% rate 2021. GSTT provides lifetime transfer to the skip person. 
+
+Transferor: 
+1. Two or more generation than then transferee 
+2. when they do the transfer during life, it is subject to gift tax, the transferor is the donor. When the property is transferred at death, and is subject to estate tax. 
+
+Transferee: 
+1. The transferee is the individual who receives the property 
+2. non skip person and skip person 
+
+Skip Person: 
+1. lineal descendant of the transferor's grandparent (or transferor's spous's grandparents), two or more generations younger than the transferor and any person who is not a lineal descedant, is not the spouse of the transferor or is two or more generations younger than the transferor base on age. (37,1/2)
+2. The examples of the individuals from the lineal line: 
+Transferor's Grandparent: (assumping your are the transferor) 
+1. 1st cousin twice removed ( your cousin's second child) 
+2. Your sibling's grandniece/nephew, adopted great grand niece/nephew 
+3. My grandchild/great-grandchild. 
+
+Unrelated and Nonlineal Descendants for GSTT purposes: 
+these people who are more distant and are not related to the transferor 
+To determine whether the non-lineal descendants are skip persons, the individual's age is the only relevant factor, which is 37 1/2 
+
+(1) A trust may deem as a skip person only if 
+* all interests in the trust are held by skip persons 
+* trust distributions can only be made to skip persons 
+
+(2) Charitable organizations are considered to be the same generations as the transferor 
+
+Exceptions: 
+1. A child of the transferor is deceased at the time of a transfer, then that child's ddescendants are moved up one generation for purposes of determining whether any transfer made up a GSTT 
+Example: If some person's child died, the grandchild would move up to one genration so there is no GSTT tax but gift tax 
+
+Nonskip person: They are regarded as the same generation as the as the spouse. 
+A trust is a non-skip person. 
+
+## Types of Taxable Transfers: 
+1. direct skip 2. taxable distribution 3 taxable termination 
+A direct skip: outright transfer of property to a skip person that is subject to estate or gift tax. 
+-- GSTT on a direct skip is imposed on the value received by the tranferee 
+
+
+
+
+
+
 
  
 

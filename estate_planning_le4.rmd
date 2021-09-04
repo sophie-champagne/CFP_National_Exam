@@ -224,6 +224,23 @@ A trust is a non-skip person.
 A direct skip: outright transfer of property to a skip person that is subject to estate or gift tax. 
 -- GSTT on a direct skip is imposed on the value received by the tranferee 
 
+## Exceptions, Exclusions, and exemptions 
+* The GSTT system was repealed in 1986, and replaced with a new GSTT system 
+* Transfers between these dates will not be subject to GSTT: 
+an irevocable trust that was in existence on or before September 25, 1985
+* The transfer was from a person who was under a mental disability to change the disposition of his property 
+
+Exclusions: 
+* 15,000 annual exclusions 
+* HEMS payments: Higher education, medical payments - qualified transfer 
+
+Exemption: 
+11.7 million 
+exclusion rate
+fraction rate 
+
+
+
 
 
 
